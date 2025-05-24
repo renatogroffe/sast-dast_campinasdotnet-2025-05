@@ -1,4 +1,4 @@
-# sast-dast_campinasdotnet-2025-05
+![image](https://github.com/user-attachments/assets/58cc9bd5-86fe-438e-989f-64252a7a6881)# sast-dast_campinasdotnet-2025-05
 Conteúdos sobre SAST (Static Application Security Testing) e DAST (Dynamic Application Security Testing) de apresentação realizada em 24/05/2025.
 
 Exemplos - clique nos links a seguir para acessar os repositórios correspondentes às demos:
@@ -8,3 +8,7 @@ Exemplos - clique nos links a seguir para acessar os repositórios correspondent
 - [**Pipeline do Azure DevOps com execução do KICS para analisar a segurança de um script Terraform que cria um cluster Kubernetes no Azure**](https://github.com/renatogroffe/AzureDevOps-KICS-Terraform-AKS)
 - [**Pipeline do Azure DevOps com execução do Trivy para analisar vulnerabilidades de um cluster Kubernetes (criado com o emulador kind)**](https://github.com/renatogroffe/AzureDevOps-Trivy-kind)
 - [**Pipeline do Azure DevOps analisando vulnerabilidades de um arquivo .apk (Android) de um app mobile baseado em React Native**](https://github.com/renatogroffe/azurepipelines-reactnative-android-build-mobsf)
+
+Segurança de APIs:
+- [**APIsec Scanner**](https://cloud.apisecapps.com/)
+- [**Certificações Gratuitas em Segurança de APIs - APIsec University**](https://cloud.apisecapps.com/)
