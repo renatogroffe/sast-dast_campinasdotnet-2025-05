@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/58cc9bd5-86fe-438e-989f-64252a7a6881)# sast-dast_campinasdotnet-2025-05
+# sast-dast_campinasdotnet-2025-05
 Conteúdos sobre SAST (Static Application Security Testing) e DAST (Dynamic Application Security Testing) de apresentação realizada em 24/05/2025.
 
 Exemplos - clique nos links a seguir para acessar os repositórios correspondentes às demos:
